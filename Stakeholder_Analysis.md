@@ -2,7 +2,7 @@
 ## AI-Powered Placement Management Platform
 
 > **Document Type:** Stakeholder Analysis
-> **Deliverable Owner:** [Your Name] — Stakeholder Analysis Lead
+> **Deliverable Owner:** [Archit] — Stakeholder Analysis Lead
 > **Project:** AI-Powered Placement Management Platform
 > **Version:** 1.0 | June 2026
 
