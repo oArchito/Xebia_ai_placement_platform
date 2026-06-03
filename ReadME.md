@@ -90,7 +90,7 @@ This repository contains the planning and analysis documents prepared during the
 | `Feature_Prioritization.md` | MoSCoW-based feature prioritization                                                          |
 | `Wireframes.md`             | UI wireframes and screen layouts                                                             |
 | `User_Stories.md`           | User stories derived from stakeholder requirements                                           |
-
+| `Monolithicto_microservice.md`           | How to scale the application when traffic increases                                           |
 ---
 
 ## Stakeholders
